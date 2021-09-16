@@ -6,8 +6,8 @@
   "scripts": {
     "test": "",
     "start": "node server.js",
-    "seed": "node seeds/seed.js",
-    "heroku-postbuild": "npm run build"
+    "seed": "node seeds/seed.js"
+    
   },
   "keywords": [],
   "author": "",
