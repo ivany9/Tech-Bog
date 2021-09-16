@@ -7,7 +7,6 @@
     "test": "",
     "start": "node server.js",
     "seed": "node seeds/seed.js"
-    
   },
   "keywords": [],
   "author": "",
@@ -33,7 +32,7 @@
   },
   "engines": {
     "node": "14.x",
-    "npm:":"7.x" 
-  }
-
+    "npm:": "7.x"
+  },
+  "heroku-run-build-script": true
 }
