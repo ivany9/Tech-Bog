@@ -1,10 +1,10 @@
 {
   "name": "crowd-funding",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tech-Bog",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "",
     "start": "node server.js",
     "seed": "node seeds/seed.js",
     "heroku-postbuild": "npm run build"
